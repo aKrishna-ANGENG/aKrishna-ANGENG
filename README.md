@@ -3,7 +3,6 @@
 - 🌱 I’m currently learning -> how to CODE
 - 💞️ I’m looking to collaborate on CODE
 - 📫 How to reach me -> through CODE
-- 😄 Pronouns: bug/buggy
 - ⚡ Fun fact: CoDe
 
 <!---
